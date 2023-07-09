@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Markazi Text';
+  src: url(./assets/Fonts/MarkaziText-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: 'Karla';
+  src: url(./assets/Fonts/Karla-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: 'Karla-Italic';
+  src: url(./assets/Fonts/Karla-Italic-VariableFont_wght.ttf);
+}
